@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NeoP\\Console": "src/"
+            "NeoP\\Console\\": "src/"
         }
     }
 }
